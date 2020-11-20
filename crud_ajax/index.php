@@ -1,12 +1,29 @@
 <html>  
     <head>  
-        <title>Añadir producto</title>  
+		<title>Añadir producto</title>  
+		<link rel="stylesheet" href="css/main.css">
+	    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
 		<link rel="stylesheet" href="jquery-ui.css">
         <link rel="stylesheet" href="bootstrap.min.css" />
 		<script src="jquery.min.js"></script>  
 		<script src="jquery-ui.js"></script>
     </head>  
     <body>  
+
+ <!--CABECERA-->
+ <header class="header"> 
+     <!-- <div class="t">
+      <div class="menu" id = "ham"><a href="#">&#9776;</a></div>
+      </div>   -->
+    <ul>
+      <li><img src="img/logo.png" class="logo"></li>
+      <li><a href="index.html">Inicio</a></li>
+      <li><a href="#nosotros">Nosotros</a></li>                
+      <li><a href="#productos">Productos</a></li>
+      <li><a href="#contactos">Contactos</a></li>
+    </ul>
+  </header>
+  
         <div class="container">
 			<br />
 			
