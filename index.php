@@ -17,7 +17,7 @@
     <!--CABECERA-->
     <header class="header">  
         <ul>
-        <li><img src="img/logo.png" class="logo"></li>
+        <li><img src="img/logo1.png" class="logo"></li>
         <li><a href="index.html">Inicio</a></li>
         <li><a href="#nosotros">Nosotros</a></li>                
         <li><a href="#productos">Productos</a></li>
@@ -34,7 +34,7 @@
     <h1 class="titulo" id="productos">PRODUCTOS</h1>
   <section class="productos">
     <div class="producto">
-      <img src="img/img1.png" class="producto-img">
+      <img src="img/img222.jpg" class="producto-img">
       <div class="producto-info">
         <h3>
            Queso Tradicional
@@ -47,7 +47,7 @@
     </div>
 
     <div class="producto">
-      <img src="img/img4.jpg" class="producto-img">
+      <img src="img/img444.jpg" class="producto-img">
       <div class="producto-info">
         <h3>
            Quesillo
@@ -60,7 +60,7 @@
     </div>
 
     <div class="producto">
-      <img src="img/img5.jpg" class="producto-img">
+      <img src="img/img333.jpg" class="producto-img">
       <div class="producto-info">
         <h3>
            Queso Gouda
