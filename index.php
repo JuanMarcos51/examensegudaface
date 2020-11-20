@@ -47,7 +47,7 @@
     </div>
 
     <div class="producto">
-      <img src="img/img2.jpg" class="producto-img">
+      <img src="img/img4.jpg" class="producto-img">
       <div class="producto-info">
         <h3>
            Quesillo
@@ -60,49 +60,10 @@
     </div>
 
     <div class="producto">
-      <img src="img/img3.jpg" class="producto-img">
-      <div class="producto-info">
-        <h3>
-           Queso Gouda
-        </h3>
-        <p>
-          Lorem ipsum dolor sit amet <br>
-          consectetur adipisicing elit.
-        </p>
-      </div>
-    </div>
-
-    <div class="producto">
-      <img src="img/img4.jpg" class="producto-img">
-      <div class="producto-info">
-        <h3>
-           Queso Dambo
-        </h3>
-        <p>
-          Lorem ipsum dolor sit amet <br>
-          consectetur adipisicing elit.
-        </p>
-      </div>
-    </div>
-
-    <div class="producto">
       <img src="img/img5.jpg" class="producto-img">
       <div class="producto-info">
         <h3>
-           Queso Muzzarella
-        </h3>
-        <p>
-          Lorem ipsum dolor sit amet <br>
-          consectetur adipisicing elit.
-        </p>
-      </div>
-    </div>
-
-    <div class="producto">
-      <img src="img/img1.jpg" class="producto-img">
-      <div class="producto-info">
-        <h3>
-           Queso Edam
+           Queso Gouda
         </h3>
         <p>
           Lorem ipsum dolor sit amet <br>
