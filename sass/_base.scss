@@ -1,0 +1,46 @@
+//general
+$light: #ff9a8c;
+$fondo: #ea2c62;
+$comet: #ed6663;
+$dark: #222831;
+$gris: #393e46;
+$claro: #eeeeee;
+
+//tipografia
+$fuente-menu: Arial;
+$fuente-titulo: 'Trebuchet MS';
+$fuente-general: serif;
+
+//Variables
+$tam-img: 300px;
+$tam-gap: 1rem;
+$tam-pad: 10px;
+
+//Responsive Media Query
+$puntos: ("small": 680px, "medium": 800px, "big": 1024px);
+//Mixins
+@mixin flex-fila {
+    display: flex;
+    align-items: center;
+    flex-flow: row wrap;
+}
+
+@mixin flex-column {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+@mixin estilo-menu ($tam) {
+    font-size: $tam;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-family: $fuente-menu;
+}
+// [@mixin dis-emp {
+//     section.emp{
+//         grid-template-areas: "header-img" "header-txt";
+//         grid-template-rows: 1fr 1fr;
+//     }
+// }]

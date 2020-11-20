@@ -1,0 +1,42 @@
+@use 'base';
+
+footer{
+    background-color: base.$fondo;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 2em;
+
+    .contact{
+        display: grid;
+        grid-template-columns: 1fr;
+        padding: base.$tam-pad;
+        .box{
+            background-color: base.$light;
+            width: 100%;
+            border-radius: 5px;
+            .t4{
+                display: flex;
+                flex-direction: row;
+                justify-content: center;
+                color: base.$fondo;
+                margin: 10px;
+            }
+            .contact-info{
+                @include base.flex-column();
+                align-items: center;
+    
+                span{
+                    padding: base.$tam-pad;
+                    margin: 10px;
+                    color: white;
+                    font-size: 20px;
+                    font-family: base.$fuente-general;
+                    i{
+                        color: base.$fondo;
+                        font-size: 20px;
+                    }
+                }
+            }
+        }
+    }
+}
