@@ -13,7 +13,7 @@
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
   padding: 10px;
-  background-color: #ff9a8c;
+  background-color: #00b7c2;
   opacity: 0.8;
   z-index: 10;
   height: 70px;
@@ -51,7 +51,7 @@
 }
 .header ul li a:hover {
   text-decoration: underline;
-  background-color: #ea2c62;
+  background-color: #0f4c75;
 }
 
 @media (max-width: 800px) {
@@ -87,7 +87,7 @@
 }
 .titulo {
   text-align: center;
-  background-color: #ea2c62;
+  background-color: #0f4c75;
   padding: 10px;
   color: white;
 }
@@ -121,13 +121,13 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
   padding: 10px;
-  background-color: #ff9a8c;
+  background-color: #00b7c2;
   text-align: center;
 }
 .nosotros .box {
   padding: 10px;
   margin: 10px;
-  background-color: #ea2c62;
+  background-color: #0f4c75;
   border-radius: 20px;
 }
 .nosotros .box img {
@@ -156,12 +156,12 @@
   grid-template-columns: 1fr 1fr 1fr;
   padding: 2em;
   grid-gap: 3em;
-  background-color: #ff9a8c;
+  background-color: #00b7c2;
 }
 .productos .producto {
   padding: 10px;
   margin: 0 auto;
-  background-color: #ea2c62;
+  background-color: #0f4c75;
   border-radius: 5px;
 }
 .productos .producto .producto-img {
@@ -178,7 +178,7 @@
 .productos .producto .producto-info h3 {
   font-family: "Trebuchet MS";
   text-align: center;
-  color: #ff9a8c;
+  color: #00b7c2;
 }
 .productos .producto .producto-info p {
   margin-top: 10px;
@@ -206,7 +206,7 @@
   transition: all 300ms;
 }
 .productos button:hover {
-  background-color: #ea2c62;
+  background-color: #0f4c75;
   color: white;
 }
 
@@ -241,7 +241,7 @@
   width: 350px;
   height: 450px;
   border-radius: 4px;
-  background-color: #ed6663;
+  background-color: #318fb5;
   text-align: center;
   margin: 20px;
   padding: 20px;
@@ -297,11 +297,11 @@
 
 .formulario {
   padding: 50px;
-  background-color: #ff9a8c;
+  background-color: #00b7c2;
   border-bottom: 1px solid black;
 }
 .formulario form {
-  background-color: #ff9a8c;
+  background-color: #00b7c2;
   border-radius: 2px;
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -348,7 +348,7 @@
   transition: all 300ms;
 }
 .formulario form button:hover {
-  background-color: #ea2c62;
+  background-color: #0f4c75;
   color: white;
 }
 .formulario form label {
@@ -458,7 +458,7 @@
   }
 }
 footer {
-  background-color: #ea2c62;
+  background-color: #0f4c75;
   display: grid;
   grid-template-columns: 1fr;
   grid-gap: 2em;
@@ -469,7 +469,7 @@ footer .contact {
   padding: 10px;
 }
 footer .contact .box {
-  background-color: #ff9a8c;
+  background-color: #00b7c2;
   width: 100%;
   border-radius: 5px;
 }
@@ -484,7 +484,7 @@ footer .contact .box .t4 {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  color: #ea2c62;
+  color: #0f4c75;
   margin: 10px;
 }
 footer .contact .box .contact-info {
@@ -510,7 +510,7 @@ footer .contact .box .contact-info span {
   font-family: serif;
 }
 footer .contact .box .contact-info span i {
-  color: #ea2c62;
+  color: #0f4c75;
   font-size: 20px;
 }
 /*# sourceMappingURL=main.css.map */
