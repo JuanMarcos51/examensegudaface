@@ -13,7 +13,7 @@
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
   padding: 10px;
-  background-color: #cf1b1b;
+  background-color: #ff9a8c;
   opacity: 0.8;
   z-index: 10;
   height: 70px;
@@ -34,7 +34,7 @@
       justify-content: space-around;
 }
 .header ul li img {
-  height: 70px;
+  height: 60px;
   width: 60px;
 }
 .header ul li a {
@@ -51,7 +51,7 @@
 }
 .header ul li a:hover {
   text-decoration: underline;
-  background-color: #900d0d;
+  background-color: #ea2c62;
 }
 
 @media (max-width: 800px) {
@@ -87,7 +87,7 @@
 }
 .titulo {
   text-align: center;
-  background-color: #900d0d;
+  background-color: #ea2c62;
   padding: 10px;
   color: white;
 }
@@ -122,12 +122,12 @@
   grid-template-columns: 1fr 1fr 1fr;
   padding: 2em;
   grid-gap: 3em;
-  background-color: #cf1b1b;
+  background-color: #ff9a8c;
 }
 .productos .producto {
   padding: 10px;
   margin: 0 auto;
-  background-color: #900d0d;
+  background-color: #ea2c62;
   border-radius: 5px;
 }
 .productos .producto .producto-img {
@@ -144,7 +144,7 @@
 .productos .producto .producto-info h3 {
   font-family: "Trebuchet MS";
   text-align: center;
-  color: #cf1b1b;
+  color: #ff9a8c;
 }
 .productos .producto .producto-info p {
   margin-top: 10px;
@@ -172,17 +172,17 @@
   transition: all 300ms;
 }
 .productos button:hover {
-  background-color: #900d0d;
+  background-color: #ea2c62;
   color: white;
 }
 
 .formulario {
   padding: 50px;
-  background-color: #cf1b1b;
+  background-color: #ff9a8c;
   border-bottom: 1px solid black;
 }
 .formulario form {
-  background-color: #cf1b1b;
+  background-color: #ff9a8c;
   border-radius: 2px;
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -229,7 +229,7 @@
   transition: all 300ms;
 }
 .formulario form button:hover {
-  background-color: #900d0d;
+  background-color: #ea2c62;
   color: white;
 }
 .formulario form label {
@@ -339,7 +339,7 @@
   }
 }
 footer {
-  background-color: #900d0d;
+  background-color: #ea2c62;
   display: grid;
   grid-template-columns: 1fr;
   grid-gap: 2em;
@@ -350,7 +350,7 @@ footer .contact {
   padding: 10px;
 }
 footer .contact .box {
-  background-color: #cf1b1b;
+  background-color: #ff9a8c;
   width: 100%;
   border-radius: 5px;
 }
@@ -365,7 +365,7 @@ footer .contact .box .t4 {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  color: #900d0d;
+  color: #ea2c62;
   margin: 10px;
 }
 footer .contact .box .contact-info {
@@ -391,7 +391,7 @@ footer .contact .box .contact-info span {
   font-family: serif;
 }
 footer .contact .box .contact-info span i {
-  color: #900d0d;
+  color: #ea2c62;
   font-size: 20px;
 }
 /*# sourceMappingURL=main.css.map */
