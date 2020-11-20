@@ -12,9 +12,6 @@
 
  <!--CABECERA-->
  <header class="header"> 
-     <!-- <div class="t">
-      <div class="menu" id = "ham"><a href="#">&#9776;</a></div>
-      </div>   -->
     <ul>
       <li><img src="img/logo.png" class="logo"></li>
       <li><a href="index.html">Inicio</a></li>
@@ -23,7 +20,91 @@
       <li><a href="#contactos">Contactos</a></li>
     </ul>
   </header>
-  
+<!--PORTADA-->
+<div class="portada">
+    <img src="img/img1.jpg" alt="" class="imgpor">
+  </div>
+
+    <!--PRODUCTOS-->
+	<h1 class="titulo" id="productos">PRODUCTOS</h1>
+  <section class="productos">
+    <div class="producto">
+      <img src="img/img1.jpg" class="producto-img">
+      <div class="producto-info">
+        <h3>
+           Queso Tradicional
+        </h3>
+        <p>
+          Lorem ipsum dolor sit amet <br>
+          consectetur adipisicing elit.
+        </p>
+      </div>
+    </div>
+
+    <div class="producto">
+      <img src="img/img2.jpg" class="producto-img">
+      <div class="producto-info">
+        <h3>
+           Quesillo
+        </h3>
+        <p>
+          Lorem ipsum dolor sit amet <br>
+          consectetur adipisicing elit.
+        </p>
+      </div>
+    </div>
+
+    <div class="producto">
+      <img src="img/img3.jpg" class="producto-img">
+      <div class="producto-info">
+        <h3>
+           Queso Gouda
+        </h3>
+        <p>
+          Lorem ipsum dolor sit amet <br>
+          consectetur adipisicing elit.
+        </p>
+      </div>
+    </div>
+
+    <div class="producto">
+      <img src="img/img4.jpg" class="producto-img">
+      <div class="producto-info">
+        <h3>
+           Queso Dambo
+        </h3>
+        <p>
+          Lorem ipsum dolor sit amet <br>
+          consectetur adipisicing elit.
+        </p>
+      </div>
+    </div>
+
+    <div class="producto">
+      <img src="img/img5.jpg" class="producto-img">
+      <div class="producto-info">
+        <h3>
+           Queso Muzzarella
+        </h3>
+        <p>
+          Lorem ipsum dolor sit amet <br>
+          consectetur adipisicing elit.
+        </p>
+      </div>
+    </div>
+
+    <div class="producto">
+      <img src="img/img6.jpg" class="producto-img">
+      <div class="producto-info">
+        <h3>
+           Queso Edam
+        </h3>
+        <p>
+          Lorem ipsum dolor sit amet <br>
+          consectetur adipisicing elit.
+        </p>
+      </div>
+    </div>
         <div class="container">
 			<br />
 			
@@ -67,6 +148,38 @@
 		<p>¿Estás seguro de que deseas eliminar estos datos?</p>
 		</div>
 		
+		<!-- Comentarios -->
+		<h2 class="titulo">Comentarios</h2>
+   <div class="box-area" id="comentarioM">
+       <div class="box-ind">
+           <div class="img-area"></div>
+           <div class="img-text">
+               <h1 class="titulo1">Qiyana</h1>
+               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit esse pariatur ipsam, itaque laborum placeat magni officia saepe harum distinctio ducimus, similique magnam, iure quibusdam doloremque quo odit aut veniam!</p>
+           </div>
+       </div>
+       <div class="box-ind">
+           <div class="img-area"></div>
+           <div class="img-text">
+               <h1 class="titulo2">Rammus</h1>
+               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit esse pariatur ipsam, itaque laborum placeat magni officia saepe harum distinctio ducimus, similique magnam, iure quibusdam doloremque quo odit aut veniam!</p>
+           </div>
+       </div>
+       <div class="box-ind">
+           <div class="img-area"></div>
+           <div class="img-text">
+               <h1 class="titulo3">Katarina</h1>
+               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit esse pariatur ipsam, itaque laborum placeat magni officia saepe harum distinctio ducimus, similique magnam, iure quibusdam doloremque quo odit aut veniam!</p>
+           </div>
+       </div>
+   </div> 
+
+   <!--FOOTER-->
+  <footer>
+    <div class="derechos">
+      <h4>Derechos Reservados © Quesio San Marcos</h4>
+    </div>
+  </footer>
     </body>  
 </html>  
 
