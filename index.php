@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Yogurt Danone</title>
+    <title>Refresco</title>
     <link rel="stylesheet" href="css/main.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
     
@@ -37,7 +37,7 @@
       <img src="img/img222.jpg" class="producto-img">
       <div class="producto-info">
         <h3>
-           Queso Tradicional
+           Coca Cola Tradicional
         </h3>
         <p>
           Lorem ipsum dolor sit amet <br>
@@ -50,7 +50,7 @@
       <img src="img/img444.jpg" class="producto-img">
       <div class="producto-info">
         <h3>
-           Quesillo
+		   Mirinda
         </h3>
         <p>
           Lorem ipsum dolor sit amet <br>
@@ -63,7 +63,7 @@
       <img src="img/img333.jpg" class="producto-img">
       <div class="producto-info">
         <h3>
-           Queso Gouda
+           Seven Up
         </h3>
         <p>
           Lorem ipsum dolor sit amet <br>
