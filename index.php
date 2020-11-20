@@ -173,7 +173,34 @@
            </div>
        </div>
    </div> 
+<!--COTACTOS-->
+<h1 class="titulo" id="contactos">CONTACTOS</h1>
+  <div class="formulario">
+    <form action="">
 
+      <div class="name">
+        <label for="">Nombre Completo:</label>
+        <input type="text">
+      </div>
+
+      <div class="email">
+        <label for="">Correo Electronico:</label>
+        <input type="email">
+      </div>
+
+      <div class="phone">
+        <label for="">Celular:</label>
+        <input type="number">
+      </div>
+
+      <div class="message">
+        <label for="">Comentario:</label>
+        <textarea type="text"></textarea>
+      </div>
+
+      <button type="submit">Enviar</button>
+    </form>
+  </div>
    <!--FOOTER-->
   <footer>
     <div class="derechos">
